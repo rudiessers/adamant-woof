@@ -1,4 +1,4 @@
 FROM node:latest
-MAINTAINER rudiessers@hotmail.com
+MAINTAINER rudiessers@gmail.com
 ADD index.js .
 CMD ["node", "index.js"]
